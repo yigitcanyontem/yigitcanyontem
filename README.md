@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular and Spring Security**
 
-- 👨‍💻 All of my projects are available at [https://yigitcanyontem.azurewebsites.net/Projects](https://yigitcanyontem.azurewebsites.net/Projects)
+- 👨‍💻 All of my projects are available at [yigitcanyontem.github.io](yigitcanyontem.github.io)
 
 - 📫 How to reach me **yigitcanyontem@outlook.com**
 
