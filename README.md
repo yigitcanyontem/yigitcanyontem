@@ -28,7 +28,7 @@ I'm a **Computer Engineer** (Graduate of Antalya Bilim University, 2025) and cur
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Spiral](https://github.com/yigitcanyontem/Spiral)** | My current core focus and latest development. | Coming Soon |
+| **[Tshirt-Generator](https://github.com/yigitcanyontem/tshirt-generator)** | A web application for generating custom T-shirt designs. | `TypeScript`, `React` |
 | **[Foodagram](https://github.com/yigitcanyontem/Foodagram)** | A dedicated social media platform for food lovers. | `Angular`, `TypeScript` |
 | **[Cam-Censor](https://github.com/yigitcanyontem/Cam-Censor)** | Privacy-first real-time camera censorship tool. | `Python`, `AI` |
 | **[Food Detection](https://github.com/yigitcanyontem/Food-Detection-YoloV11)** | Advanced object detection model trained with YoloV11. | `Python`, `YOLO` |
