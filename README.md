@@ -1,23 +1,65 @@
-<h1 align="center">Hi 👋, I'm Yiğit Can Yöntem</h1>
-<h3 align="center">A passionate Full Stack Developer and Student from Turkey</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yiğit%20Can%20Yöntem&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Computer%20Engineer&descAlignY=60&descSize=25" width="100%" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yigitcanyontem&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcanyontem" /> </p>
+# 🚀 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yigitcanyontem" alt="yigitcanyontem" /></a> </p>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Computer+Engineering+Student;AI+and+Computer+Vision+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on [Spiral](https://github.com/yigitcanyontem/Spiral)
+I'm a **4th-year Computer Engineering student** at Antalya Bilim University and a **Full Stack Developer** with over a year of professional experience in a startup environment. I'm passionate about building robust web applications, exploring the horizons of Artificial Intelligence, and crafting clean, efficient code.
 
-- 🌱 I’m currently learning **Angular and Spring Security**
+🌍 **Visit my personal portfolio:** [yigitcanyontem.com](https://yigitcanyontem.com)
 
-- 👨‍💻 All of my projects are available at [yigitcanyontem.github.io](yigitcanyontem.github.io)
+---
 
-- 📫 How to reach me **yigitcanyontem@outlook.com**
+# 🛠 Tech Stack
 
+### 💻 Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,python,nodejs,html,css,bootstrap,dotnet)](https://skillicons.dev)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yigitcanyontem&show_icons=true&locale=en&layout=compact&hide=python" alt="yigitcanyontem" /></p>
+### ☁️ Cloud, Databases & Tools
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,mysql,postgres,mongodb,firebase,figma,postman)](https://skillicons.dev)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yigitcanyontem&show_icons=true&locale=en" alt="yigitcanyontem" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yigitcanyontem&" alt="yigitcanyontem" /></p>
+# 🌟 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Spiral](https://github.com/yigitcanyontem/Spiral)** | My current core focus and latest development. | Coming Soon |
+| **[Foodagram](https://github.com/yigitcanyontem/Foodagram)** | A dedicated social media platform for food lovers. | `Angular`, `TypeScript` |
+| **[Cam-Censor](https://github.com/yigitcanyontem/Cam-Censor)** | Privacy-first real-time camera censorship tool. | `Python`, `AI` |
+| **[Food Detection](https://github.com/yigitcanyontem/Food-Detection-YoloV11)** | Advanced object detection model trained with YoloV11. | `Python`, `YOLO` |
+| **[Attendance System](https://github.com/yigitcanyontem/face-recognition-attendance-system)** | AI-powered face recognition attendance automated system. | `Python`, `OpenCV` |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yigitcanyontem&show_icons=true&theme=tokyonight" alt="Yiğit's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yigitcanyontem&theme=tokyonight" alt="Yiğit's Streak" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yigitcanyontem&theme=tokyonight-animation" width="100%" />
+</p>
+
+---
+
+# 📫 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/yigitcanyontem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/linked-in/default.svg" alt="Yiğit Can Yöntem" height="30" width="40" /></a>
+<a href="mailto:yigitcanyontem@outlook.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/outlook.png" alt="Email" height="30" width="30" /></a>
+<a href="https://yigitcanyontem.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" height="30" width="30" /></a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=yigitcanyontem&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcanyontem" />
+</p>
