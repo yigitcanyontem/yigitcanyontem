@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yiğit%20Can%20Yöntem&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Computer%20Engineer&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yiğit%20Can%20Yöntem&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Medior%20Full%20Stack%20Developer&descAlignY=60&descSize=25" width="100%" />
 </p>
 
 # 🚀 About Me
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Computer+Engineering+Student;AI+and+Computer+Vision+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Medior+Full+Stack+Developer;Computer+Engineer;AI+and+Computer+Vision+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
-I'm a **4th-year Computer Engineering student** at Antalya Bilim University and a **Full Stack Developer** with over a year of professional experience in a startup environment. I'm passionate about building robust web applications, exploring the horizons of Artificial Intelligence, and crafting clean, efficient code.
+I'm a **Computer Engineer** (Graduate of Antalya Bilim University, 2025) and currently working as a **Medior Full Stack Developer** at **E.ON Digital Technology GmbH** in Dortmund, Germany. I specialize in building scalable web applications with Cloud-Native architectures and have a strong background in AI-driven solutions.
 
 🌍 **Visit my personal portfolio:** [yigitcanyontem.com](https://yigitcanyontem.com)
 
@@ -17,10 +17,10 @@ I'm a **4th-year Computer Engineering student** at Antalya Bilim University and 
 # 🛠 Tech Stack
 
 ### 💻 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,python,nodejs,html,css,bootstrap,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,python,nodejs,html,css,tailwind,dotnet)](https://skillicons.dev)
 
 ### ☁️ Cloud, Databases & Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,mysql,postgres,mongodb,firebase,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,git,gitlab,mysql,postgres,redis,mongodb)](https://skillicons.dev)
 
 ---
 
@@ -55,9 +55,9 @@ I'm a **4th-year Computer Engineering student** at Antalya Bilim University and 
 # 📫 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yigitcanyontem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/linked-in/default.svg" alt="Yiğit Can Yöntem" height="30" width="40" /></a>
-<a href="mailto:yigitcanyontem@outlook.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/outlook.png" alt="Email" height="30" width="30" /></a>
-<a href="https://yigitcanyontem.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/yigitcanyontem" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yigitcanyontem@outlook.com" target="blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
+<a href="https://yigitcanyontem.com" target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
 <p align="right">
